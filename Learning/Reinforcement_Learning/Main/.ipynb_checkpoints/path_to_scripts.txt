@@ -1,3 +1,0 @@
-C:\Users\ahmad\AppData\Local\Programs\Python\Python312\Scripts\jupyter-notebook.exe
-
-C:\Users\alex1\AppData\Local\Programs\Python\Python312\Scripts\jupyter-notebook.exe

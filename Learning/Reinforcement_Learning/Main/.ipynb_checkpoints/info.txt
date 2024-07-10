@@ -1,0 +1,12 @@
+C:\Users\ahmad\AppData\Local\Programs\Python\Python312\Scripts\jupyter-notebook.exe
+
+C:\Users\alex1\AppData\Local\Programs\Python\Python312\Scripts\jupyter-notebook.exe
+
+
+SWIG is needed to be installed and added to path for the self driving car 
+
+
+cd "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Auxiliary\Build"
+vcvarsall.bat amd64
+
+
